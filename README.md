@@ -16,5 +16,3 @@ En tant que développeur, mes responsabilités incluent :
    - Rédaction et exécution de scripts SQL.
 3. **Interface Graphique** :
    - Conception d’une interface utilisateur responsive en **HTML**, **CSS**, et **Tailwind CSS**.
-
-
